@@ -1,5 +1,5 @@
 def hello_message():
-    pass
+    print("Hello World")
 
 
 if __name__ == '__main__':
